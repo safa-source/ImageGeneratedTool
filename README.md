@@ -21,14 +21,28 @@ Users must first register an account and then log in using their valid credentia
 ### Project Purpose
 The primary purpose of this project is to demonstrate the implementation of a basic user authentication system, including registration, login validation, database connectivity, and access control in a web application.
 
+
 ## Screenshots
 
 ### Registration Page
 ![Registration](imagegeneratedtool/assets/screenshots/registration.png)
 
+<br>
+
+---
+
+<br>
+
 ### Login Page
 ![Login](imagegeneratedtool/assets/screenshots/login.png)
 
+<br>
+
+---
+
+<br>
+
 ### Home Page
 ![Home](imagegeneratedtool/assets/screenshots/homepage.png)
+
 
