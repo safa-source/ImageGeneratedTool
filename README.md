@@ -24,10 +24,10 @@ The primary purpose of this project is to demonstrate the implementation of a ba
 ## Screenshots
 
 ### Registration Page
-![Registration](assets/screenshots/registration.png)
+![Registration](imagegeneratedtool/assets/screenshots/registration.png)
 
 ### Login Page
-![Login](assets/screenshots/login.png)
+![Login](imagegeneratedtool/assets/screenshots/login.png)
 
 ### Home Page
 ![Home](imagegeneratedtool/assets/screenshots/homepage.png)
