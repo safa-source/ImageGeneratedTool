@@ -30,5 +30,5 @@ The primary purpose of this project is to demonstrate the implementation of a ba
 ![Login](assets/screenshots/login.png)
 
 ### Home Page
-![Home](assets/screenshots/homepage.png)
+![Home](imagegeneratedtool/assets/screenshots/homepage.png)
 
